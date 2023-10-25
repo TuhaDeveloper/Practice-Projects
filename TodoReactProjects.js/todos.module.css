@@ -1,0 +1,7 @@
+.todos {
+    background-color: rgb(63, 66, 66);
+    padding: 2rem;
+    height: 70vh;
+    width: 60vh;
+    overflow: auto;
+}

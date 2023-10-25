@@ -1,0 +1,33 @@
+.allTodo {
+    margin-bottom: .5rem;
+    background-color: orange;
+    padding: 5px 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+.allTodo:hover {
+    background-color: rgb(18, 80, 80);
+    color: white;
+    transition: all .5s;
+
+}
+
+.btn {
+    padding: 5px 5px;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    border: none;
+    transition: all .5s;
+}
+
+
+
+.btn:hover {
+    background-color: rgb(121, 42, 13);
+}
